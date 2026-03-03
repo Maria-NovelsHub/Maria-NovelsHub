@@ -73,3 +73,10 @@ body {
 .home-btn:hover {
     background: #ff69b4;
 }
+.welcome-text {
+    text-align: center;
+    font-size: 36px;
+    margin-top: 40px;
+    color: black;
+    background: white;
+}
