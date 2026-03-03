@@ -81,3 +81,48 @@ body {
     color: black;
     background: white;
 }
+/* Writers Page */
+.writers-heading {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 28px;
+}
+
+.writers-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+/* Writer Card */
+.writer-card {
+    width: 300px;
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    text-align: center;
+}
+
+.writer-card img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.writer-card h3 {
+    margin-top: 15px;
+}
+
+.writer-card a {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    background: black;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+}
+
+.writer-card a:hover {
+    background: #003951;   /* classy dark blue */
+}
