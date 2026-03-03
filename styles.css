@@ -5,8 +5,8 @@ body {
 }
 
 header {
-  background: black;
-  color: white;
+  background: white;
+  color: black;
   padding: 15px 0;
   text-align: center;
 }
