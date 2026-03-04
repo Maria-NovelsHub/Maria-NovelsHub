@@ -157,3 +157,19 @@ body {
 .writer-card a:hover {
     color: hotpink;
 }
+.main-content {
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.main-content h1 {
+    font-size: 36px;
+    margin-bottom: 15px;
+    color: #003951;
+}
+
+.main-content h3 {
+    font-size: 20px;
+    font-weight: normal;
+    color: #444;
+}
